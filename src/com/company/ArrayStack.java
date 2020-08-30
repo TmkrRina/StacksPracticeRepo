@@ -39,6 +39,7 @@ public class ArrayStack {
          count--;
          System.out.println(Arrays.toString(stack));
 
-
      }
+
+
 }
