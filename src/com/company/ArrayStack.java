@@ -21,8 +21,6 @@ public class ArrayStack {
         if (stack.length == count) {
             for (int i = 0; i < count; i++) {
                 newStack[i] = stack[i];
-
-
             }
             stack = newStack;
         }

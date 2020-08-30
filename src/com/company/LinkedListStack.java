@@ -21,7 +21,7 @@ public class LinkedListStack {
 
     public void pop() {
         System.out.println(peek());
-        stack.removeLast();
+        stack.removeFirst();
         System.out.println(stack);
     }
 

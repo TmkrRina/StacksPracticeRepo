@@ -27,14 +27,15 @@ public class Main {
 //		System.out.println(listStack.search(50));
 //		listStack.pop();
 
-		LinkedListStack linkedListStack =  new LinkedListStack();
-		linkedListStack.push(10);
-		linkedListStack.push(20);
-		linkedListStack.push(30);
-		linkedListStack.push(40);
-		System.out.println(linkedListStack.search(20));
-		linkedListStack.pop();
+//		LinkedListStack linkedListStack =  new LinkedListStack();
+//		linkedListStack.push(10);
+//		linkedListStack.push(20);
+//		linkedListStack.push(30);
+//		linkedListStack.push(40);
+//		System.out.println(linkedListStack.search(20));
+//		linkedListStack.pop();
 
+		System.out.println(Bracets.solution("{([]}"));
 
 
 
